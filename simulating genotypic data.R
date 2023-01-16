@@ -19,6 +19,8 @@ maf <- runif(m, 0, .5)
 
 #generates a binomial distributed with the given vector length, size (no. of tries) of the experiment and probablity of each trial
 #now if you run this multiple times it basically creates a random value between 0 and 1
+
+#So basically it does the experiment with the given probablity, here - 0.5 and returns the number of time the result was a success in context of a bionomial distribution
 testBinomial <- rbinom(1,1,0.5)
 testBinomial
 
