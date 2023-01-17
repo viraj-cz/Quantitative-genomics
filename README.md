@@ -9,3 +9,5 @@ Also adding helpful resources, I come across:
 - Bionomial Distribution
   - [StatQuest](https://www.youtube.com/watch?v=J8jNoF-K8E8)
   - [ZStats](https://www.youtube.com/watch?v=e04_wUoscBU)
+- Gene Linkage
+  - [Bozeman science](https://www.youtube.com/watch?v=-_UcDhzjOio)
