@@ -19,7 +19,7 @@ Also adding helpful resources, I come across:
   - [BIG BIO 3](https://www.youtube.com/watch?v=11oH6cpJ-nw)
   - [Genomics Boot camp](https://www.youtube.com/watch?v=7iarFfxYxQc)
  - Linkage Disequilibrium
-  - [BIG BIO](https://www.youtube.com/watch?v=OnAk6cEbRyU)
+   - [BIG BIO](https://www.youtube.com/watch?v=OnAk6cEbRyU)
  - MAF (Minor Allele Frequency)
   - [BIG BIO](https://www.youtube.com/watch?v=Hm4W55cukl8)
 
